@@ -1,89 +1,78 @@
+
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Vishal Vaid's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Vishal Vaid
+Software Engineering & Business Analytics Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:vishal_543@hotmail.com">vishal_543@hotmail.com</a>
+| <a href="https://linkedin.com/in/vishalvaid1">linkedin.com/in/vishalvaid1</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Pursuing dual Bachelor's degrees in Software Engineering and Business Analytics at Brigham Young University - Idaho.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Software Engineering, Data Analysis, Web Development, Python, SQL, Tableau, Predictive Analytics.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Web development, machine learning, data-driven decision making, educational technology, mobile applications.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep 2019 – Jul 2024`  
+__Brigham Young University - Idaho, Rexburg, ID__  
+Bachelor of Science in Software Engineering  
+GPA: 3.0
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Jul 2024 – Apr 2026`  
+__Brigham Young University - Idaho, Rexburg, ID__  
+Bachelor of Science in Business Analytics  
+GPA: 3.0
 
-- Sizar
+## Work Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Apr 2023 – Present`  
+__OAS Online Grader (Specialized), Brigham Young University__  
+- Graded 150 online students' weekly assignments and final exams.  
+- Evaluated 2800+ assignments across a 14-week semester.  
+- Delivered exam results within 48 hours.  
+- Improved midterm-to-final performance by 15%.
 
-- Fellow
+`Sep 2022 – Jul 2024`  
+__Teaching Assistant, Brigham Young University__  
+- Led classes of 25 students, improving engagement and test scores by 15%.  
+- Boosted assignment completion by 35%.  
+- 95% of students earned an "A" grade.
 
+`Apr 2022 – Sep 2023`  
+__Tutor, Brigham Young University__  
+- Mentored 200+ freshmen/sophomores in Python, HTML, CSS, and JavaScript.  
+- Increased coding proficiency by 25% per semester.  
+- Achieved 100% tutoring satisfaction ratings.
 
+## Projects
 
-## Awards
+`Jun 2024 – Present`  
+__Weather App (Android, Kotlin)__  
+- Real-time API integration for weather data.  
+- Visualizes trends like temperature and humidity.  
+- Targeting 95% prediction accuracy. (In progress)
 
-`2012`
-President, *Royal Society*, London, UK
+`Jan 2022 – Present`  
+__Non-Profit Website__  
+- Responsive site using HTML, CSS, JavaScript, and Svelte.  
+- Full backend integration. (In progress)
 
-Associate, *French Academy of Science*, Paris, France
+## Skills
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+**Programming & Data Analysis:** Python (Pandas, NumPy, Scikit-Learn), SQL (Joins, Aggregations, Indexing), R, JavaScript, C#, MySQL  
+**Web Development:** HTML, CSS, JavaScript, Svelte  
+**Software Engineering:** Data Structures, Algorithms, OOP, API Development  
+**Tools & Modeling:** Tableau, Excel (VLOOKUP, INDEX-MATCH), Git/GitHub  
